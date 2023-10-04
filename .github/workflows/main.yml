@@ -24,4 +24,4 @@ jobs:
         port: 22
         script: |
           cd /var/pocketbase/pb_public 
-          git pull origin mains
+          git pull
